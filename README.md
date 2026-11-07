@@ -20,6 +20,7 @@ Before university placements, I spent three years in technical support at Tesco 
 
 | Project | What it is |
 |---|---|
+| [helpdesk-ticket-api](https://github.com/RakibsCraft/helpdesk-ticket-api) | REST API for an IT helpdesk with SLA tracking, a triage queue and PostgreSQL storage (Node.js, Express, PostgreSQL) |
 | [java-problem-solving](https://github.com/RakibsCraft/java-problem-solving) | Classic algorithm and data structure problems solved in Java, each with a JUnit 5 test suite and complexity notes |
 
 ## Coursework
