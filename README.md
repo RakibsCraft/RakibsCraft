@@ -21,6 +21,7 @@ Before university placements, I spent three years in technical support at Tesco 
 | Project | What it is |
 |---|---|
 | [helpdesk-ticket-api](https://github.com/RakibsCraft/helpdesk-ticket-api) | REST API for an IT helpdesk with SLA tracking, a triage queue and PostgreSQL storage (Node.js, Express, PostgreSQL) |
+| [log-analyser](https://github.com/RakibsCraft/log-analyser) | Python CLI that reads Linux auth logs and detects brute-force attacks, password spraying and compromised accounts |
 | [java-problem-solving](https://github.com/RakibsCraft/java-problem-solving) | Classic algorithm and data structure problems solved in Java, each with a JUnit 5 test suite and complexity notes |
 
 ## Coursework
