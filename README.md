@@ -16,17 +16,6 @@ Before university placements, I spent three years in technical support at Tesco 
 
 **Systems and tools:** Linux, shell scripting, Git (fundamentals), Zendesk
 
-## Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| Travel Blog | React, Express, Node.js, MySQL, bcrypt | Full-stack blog with user accounts, password hashing and authentication |
-| Therapist-Client Management System | React, Express, Node.js, MySQL | CRUD dashboards for therapists, clients and sessions |
-| Music Library | React, Express, Node.js, MySQL, Axios | Full-stack CRUD app for artists, albums and songs |
-| Pomodoro Timer | HTML, CSS, JavaScript | Focus timer built with DOM-driven timer logic |
-| Weather App | HTML, CSS, JavaScript, Fetch API | Weather display that reads and renders JSON data |
-| Unix Systems Practicals | C, Bash | Process creation, pipes, named pipes, message queues, sockets and shell scripts on Linux |
-
 ## Coursework
 
 - **Operating Systems and Concurrency:** Unix processes, IPC, sockets, RMI, producer-consumer in Java
