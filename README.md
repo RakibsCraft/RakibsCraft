@@ -16,6 +16,12 @@ Before university placements, I spent three years in technical support at Tesco 
 
 **Systems and tools:** Linux, shell scripting, Git (fundamentals), Zendesk
 
+## Projects
+
+| Project | What it is |
+|---|---|
+| [java-problem-solving](https://github.com/RakibsCraft/java-problem-solving) | Classic algorithm and data structure problems solved in Java, each with a JUnit 5 test suite and complexity notes |
+
 ## Coursework
 
 - **Operating Systems and Concurrency:** Unix processes, IPC, sockets, RMI, producer-consumer in Java
